@@ -1,0 +1,33 @@
+@CHARSET "UTF-8";
+
+.div1{
+	margin:10px 0 10px 20px;
+}
+.div2{
+	margin:20px 0 10px 20px;
+}
+.div3{
+	margin:20px 0 0 0;
+}
+.div4{
+	margin:0 0 0 10px;
+}
+.update-h2-1{
+	margin:20px 0 20px 28px;
+}
+.update-btn-1{
+	margin:20px 0 0 0;
+}
+.jumbotron {
+	background-image: url(../img/bg.jpg);
+	margin: 50px 0 0 0;
+	color: #ccc;
+}
+.jumbotron h1 {
+	font-size: 26px;
+	padding: 0 0 0 20px;
+}
+.jumbotron h4 {
+	font-size: 15px;
+	padding: 0 0 0 20px;
+}
